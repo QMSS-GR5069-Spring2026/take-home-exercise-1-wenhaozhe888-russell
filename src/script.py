@@ -6,3 +6,5 @@ Traceback (most recent call last):
   File "/Users/haozhewen/Desktop/Applied data/take-home-exercise-1/take-home-exercise-1-wenhaozhe888-russell/src/script.py", line 2, in <module>
     import numpy as np
 ModuleNotFoundError: No module named 'numpy'
+
+print("Update from Chance - collaborator change")
